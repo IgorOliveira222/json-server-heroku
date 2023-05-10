@@ -1,10 +1,4 @@
 {
-  "pacientes":[   
-  ],
-  "prontuarioSessao":[
-  ],
-   "FatoRelevante":[
-  ],
-  "cadastrosNovos":[
+  "listarPacientes":[   
   ]
 }
